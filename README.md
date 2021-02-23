@@ -1,2 +1,3 @@
 # Emojipedia
-Created with CodeSandbox
+This is a dictionary for different emojis
+It is build on React
